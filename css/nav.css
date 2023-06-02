@@ -1,0 +1,28 @@
+ul {
+  display: flex;
+  gap: 75px;
+  list-style-type: none;
+  padding: 27px 75px;
+  align-items: center;
+  font-weight: 400;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+nav ul li a {
+  color: white;
+  font-size: 18px;
+}
+nav ul li:first-child {
+  margin-right: auto;
+  color: white;
+  font-weight: 600;
+  font-size: 22px;
+}
+nav ul li:last-child {
+  padding: 15px 48px;
+  background-color: #1574f6;
+  box-shadow: rgba(0, 0, 0, 0.226) 0px 4px 8px,
+    rgba(0, 0, 0, 0.055) 0px 14px 26px -6px, rgb(7, 82, 180) -3px -4px 0px inset;
+}
