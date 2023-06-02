@@ -1,0 +1,22 @@
+.team-header {
+  background: url(/assets/bg.png) center no-repeat;
+  background-size: 100%;
+}
+
+.team-description {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.team-navn h1 {
+  font-size: 170px;
+  max-width: 612px;
+}
+
+.team-header {
+  color: #fff;
+}
+
+.team-pics img {
+  max-height: 731px;
+}
