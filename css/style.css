@@ -1,0 +1,12 @@
+:root {
+  --holdkant: 0 9%;
+}
+
+header {
+  background-color: #22175b;
+  color: white;
+}
+
+header h1 {
+  font-size: 150px;
+}
